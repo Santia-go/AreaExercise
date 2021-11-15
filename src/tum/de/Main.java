@@ -1,4 +1,4 @@
-package tum.de;
+
 
 class Shape {
     protected String color;
